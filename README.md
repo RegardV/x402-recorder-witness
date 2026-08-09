@@ -17,6 +17,21 @@ already carries a sha256 of every blob, so witnessing the manifests witnesses th
 manifests/YYYY-MM-DD.json
 ```
 
+## Current status
+
+**Recording began 9 August 2026. No day has been sealed yet — the first manifest is
+expected on 12 August.**
+
+That delay is deliberate, not a gap. A day is only sealed once it is 48 hours old, so
+that a capture host which was offline (load-shedding, here) still has time to deliver
+its hours before the day is closed. `absent` is inside the chain digest, so a day sealed
+early is sealed wrong permanently. Waiting is cheaper than being wrong.
+
+An empty `manifests/` before the 12th is therefore the correct state, and this note is
+here so you do not have to take that on trust.
+
+
+
 Each file contains:
 
 | Field | Meaning |
