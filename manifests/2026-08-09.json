@@ -1,0 +1,109 @@
+{
+  "date": "2026-08-09",
+  "files": [
+    {
+      "name": "base-settlements-15.jsonl.gz",
+      "sha256": "59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2",
+      "records": 0,
+      "status": "disabled"
+    },
+    {
+      "name": "catalogs-15.jsonl.gz",
+      "sha256": "cdc9a4d4fb7315e8cdf60415206a0139e0ce13091970ff8af8a99e2c462cad12",
+      "records": 1,
+      "status": "ok"
+    },
+    {
+      "name": "catalogs-16.jsonl.gz",
+      "sha256": "cd3b5c01adf2cafb8aea2e70e90e5379a550da1bd91939e1846a48383624bfbc",
+      "records": 1,
+      "status": "ok"
+    },
+    {
+      "name": "catalogs-17.jsonl.gz",
+      "sha256": "9105c54a67fdd8e41ac3be7047d18263d713a3fb6a4c6989e5f0b1bcadb94902",
+      "records": 1,
+      "status": "ok"
+    },
+    {
+      "name": "catalogs-18.jsonl.gz",
+      "sha256": "7ad37551ed032545919ff568cf544ac0997e9522a3df48050daf8c49a8fb7605",
+      "records": 1,
+      "status": "ok"
+    },
+    {
+      "name": "catalogs-19.jsonl.gz",
+      "sha256": "a6d447ccfb817485df6e944401142f0f64424261acecd767090bd2c45fcf3738",
+      "records": 1,
+      "status": "ok"
+    },
+    {
+      "name": "catalogs-20.jsonl.gz",
+      "sha256": "29638ba96a07844c6eed9197df14ecf06e83bdaf27717ac16ca4eb1687635dd1",
+      "records": 1,
+      "status": "ok"
+    },
+    {
+      "name": "catalogs-21.jsonl.gz",
+      "sha256": "443855ab5fd6e995d25868b82481ae0438182aaa6d20d339f79211e44208eda6",
+      "records": 1,
+      "status": "ok"
+    },
+    {
+      "name": "catalogs-22.jsonl.gz",
+      "sha256": "3a71c3d2b6b727b88caeb2dd74ced59e8e011f6854f7d7ce6352aa4ef64e2941",
+      "records": 1,
+      "status": "ok"
+    },
+    {
+      "name": "catalogs-23.jsonl.gz",
+      "sha256": "0c7755956b828cf4ef10f9a502d51e538aa3f85cd336f8a86e6013a3bbdf8867",
+      "records": 1,
+      "status": "ok"
+    },
+    {
+      "name": "payai-18.jsonl.gz",
+      "sha256": "f9351377646a5dbf773ff62f15b779a561f9b00488c83fd2139967760cc9d957",
+      "records": 18077,
+      "status": "ok"
+    },
+    {
+      "name": "payai-19.jsonl.gz",
+      "sha256": "163259bc492f877c35cc473aed8b489c8d7e6cbd69c1b55d2b98068e105ab3d7",
+      "records": 2,
+      "status": "ok"
+    },
+    {
+      "name": "payai-20.jsonl.gz",
+      "sha256": "072a772c9c58929a42cd33acd12680ebc13082e85cba6ed618428cf6a6bdc27d",
+      "records": 3,
+      "status": "ok"
+    },
+    {
+      "name": "payai-21.jsonl.gz",
+      "sha256": "59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2",
+      "records": 0,
+      "status": "ok"
+    },
+    {
+      "name": "payai-22.jsonl.gz",
+      "sha256": "59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2",
+      "records": 0,
+      "status": "ok"
+    },
+    {
+      "name": "payai-23.jsonl.gz",
+      "sha256": "5c837d6ebb14971cff6337038f05a6d549e95f15afb3e58da18d5c8d317a2e65",
+      "records": 2,
+      "status": "ok"
+    },
+    {
+      "name": "xrpl-settlements-15.jsonl.gz",
+      "sha256": "59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2",
+      "records": 0,
+      "status": "disabled"
+    }
+  ],
+  "prev_chain": "0000000000000000000000000000000000000000000000000000000000000000",
+  "chain_sha256": "bc8ff6884ea5be3fcf2bc3f20ed78c7a02b37608ad07b49a9f6a40e1e9ca1a4a"
+}
