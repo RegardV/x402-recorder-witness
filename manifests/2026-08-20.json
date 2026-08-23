@@ -1,0 +1,601 @@
+{
+  "date": "2026-08-20",
+  "files": [
+    {
+      "name": "base-settlements-02.jsonl.gz",
+      "sha256": "59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2",
+      "records": 0,
+      "status": "disabled"
+    },
+    {
+      "name": "catalogs-00-sg1.jsonl.gz",
+      "sha256": "d548ae38afdc4d1f4f6b8edd19ea7546753f036b3b749ed2623d52a7148b7194",
+      "records": 1,
+      "status": "ok"
+    },
+    {
+      "name": "catalogs-00.jsonl.gz",
+      "sha256": "bb83abf0d8ec584251230d387903d28eb8423786f6a1e892ddffe6813b2bf584",
+      "records": 1,
+      "status": "ok"
+    },
+    {
+      "name": "catalogs-01-sg1.jsonl.gz",
+      "sha256": "e514604d1d499ef06b5e8ddcb744b8ce7ebced26bbcb50f9e13305493cca1863",
+      "records": 1,
+      "status": "ok"
+    },
+    {
+      "name": "catalogs-01.jsonl.gz",
+      "sha256": "d93d7be04d186fd217fe72b67489488c0b156ade1bfb194c23b4ab9428bc6189",
+      "records": 1,
+      "status": "ok"
+    },
+    {
+      "name": "catalogs-02-sg1.jsonl.gz",
+      "sha256": "e26f2dcc67357a8b9c618feb0459660494298a005f8affc6d04d9fe7287a9109",
+      "records": 1,
+      "status": "ok"
+    },
+    {
+      "name": "catalogs-02.jsonl.gz",
+      "sha256": "e5b8f365807aea1652b32a03ccfe0f40871e8a568e5fec952508c7d717b80a4b",
+      "records": 1,
+      "status": "ok"
+    },
+    {
+      "name": "catalogs-03-sg1.jsonl.gz",
+      "sha256": "cc009de6b8336df8dd105c4a7e3dc08994f7ebc714e2fa5c9bd6e4d7dc5ea969",
+      "records": 1,
+      "status": "ok"
+    },
+    {
+      "name": "catalogs-03.jsonl.gz",
+      "sha256": "c479a1f45981b293f44e3ea0156c7e891ec3545dde98ab9575169e096bb9357b",
+      "records": 1,
+      "status": "ok"
+    },
+    {
+      "name": "catalogs-04-sg1.jsonl.gz",
+      "sha256": "37ed36b691ff307f81e0bfbb1a1eaaace3d9916a355b9f07043232c5279b8a81",
+      "records": 1,
+      "status": "ok"
+    },
+    {
+      "name": "catalogs-04.jsonl.gz",
+      "sha256": "f29c5230c9055a632dec34ab35c24815f47ee175b5613fac6522a610924d0e82",
+      "records": 1,
+      "status": "ok"
+    },
+    {
+      "name": "catalogs-05-sg1.jsonl.gz",
+      "sha256": "0f7a28d14d7063bd685a7fac7a8421e99aebc3e1630cbfe2b9c27e35dbaf62b9",
+      "records": 1,
+      "status": "ok"
+    },
+    {
+      "name": "catalogs-05.jsonl.gz",
+      "sha256": "9eef82ae07a8eb3dc55a92235cbaad008163b41121a7675d722b5a5d658fa92b",
+      "records": 1,
+      "status": "ok"
+    },
+    {
+      "name": "catalogs-06-sg1.jsonl.gz",
+      "sha256": "d65ed622d02be8514afd686904cbbda15766cd6c32fdf53adfc27e2b219ce871",
+      "records": 1,
+      "status": "ok"
+    },
+    {
+      "name": "catalogs-06.jsonl.gz",
+      "sha256": "5639bf3f34f9df2359630b61339e9403d9ae37a4e726b6bc224bccc9b6afcb2d",
+      "records": 1,
+      "status": "ok"
+    },
+    {
+      "name": "catalogs-07-sg1.jsonl.gz",
+      "sha256": "d8ae9ce76f5275b023d07a0fb460778ba233adf240e04c5f5e25c9775dffdd9f",
+      "records": 1,
+      "status": "ok"
+    },
+    {
+      "name": "catalogs-07.jsonl.gz",
+      "sha256": "721bf8df763b0d21944bd43711f15e2f13451da14cd42924564e5c2e7d81db31",
+      "records": 1,
+      "status": "ok"
+    },
+    {
+      "name": "catalogs-08-sg1.jsonl.gz",
+      "sha256": "5b752676e776fdfda12a50b373084742c15200bf898a0cf9f0523b088ea2cef3",
+      "records": 1,
+      "status": "ok"
+    },
+    {
+      "name": "catalogs-08.jsonl.gz",
+      "sha256": "a8b18400dcfe03ab9548be3de46d96b0ec493d05cde968f352961396db7117e0",
+      "records": 1,
+      "status": "ok"
+    },
+    {
+      "name": "catalogs-09-sg1.jsonl.gz",
+      "sha256": "7b18e5bd48257e92ca950f2c7a1cf87c3a7da258ace3f3cc11efeeffcc58dca4",
+      "records": 1,
+      "status": "ok"
+    },
+    {
+      "name": "catalogs-09.jsonl.gz",
+      "sha256": "95ccfba87a30fa06b66665367ac9fc2814092096b76abd153f5c400afa5f2db4",
+      "records": 1,
+      "status": "ok"
+    },
+    {
+      "name": "catalogs-10-sg1.jsonl.gz",
+      "sha256": "c6d36b04574c78e7219c0023b74b53a0ca1ceafb256d48722931d1f931536022",
+      "records": 1,
+      "status": "ok"
+    },
+    {
+      "name": "catalogs-10.jsonl.gz",
+      "sha256": "ceda233e805d71ec0c233235744e0fb279e567e034d7cf6e7f4aa3352e12caaf",
+      "records": 1,
+      "status": "ok"
+    },
+    {
+      "name": "catalogs-11-sg1.jsonl.gz",
+      "sha256": "0ff76f91570c5b93098454dd1f2b9c2f44ef5f9b6b8c3332eab027d84548b19e",
+      "records": 1,
+      "status": "ok"
+    },
+    {
+      "name": "catalogs-11.jsonl.gz",
+      "sha256": "840c902a7261fd514edeabfa9647a6474105f737265c2d8fa1e29d9abd0c298b",
+      "records": 1,
+      "status": "ok"
+    },
+    {
+      "name": "catalogs-12-sg1.jsonl.gz",
+      "sha256": "500646e8cbcba797e4a479d3df4e189d45f6bd74cd224c668f857d03d3dd2470",
+      "records": 1,
+      "status": "ok"
+    },
+    {
+      "name": "catalogs-12.jsonl.gz",
+      "sha256": "e6db976f7246cd6a6af48f8d981ce48f93b6b8e9025e6f5defc4178bb581e74b",
+      "records": 1,
+      "status": "ok"
+    },
+    {
+      "name": "catalogs-13-sg1.jsonl.gz",
+      "sha256": "9188347546cd06f838a9f4b44c1d9556139e4e6a41c61d0c9fd4bdcf0bfe7ac8",
+      "records": 1,
+      "status": "ok"
+    },
+    {
+      "name": "catalogs-13.jsonl.gz",
+      "sha256": "0a4486de0442cb81e01ce4aea9740e833c7f18d258c6a5bb20cd2ca2d4146310",
+      "records": 1,
+      "status": "ok"
+    },
+    {
+      "name": "catalogs-14-sg1.jsonl.gz",
+      "sha256": "6fbf9096d84d8f151ce2c53f911584bda3d378f6b69830aaffde5c5140fd225a",
+      "records": 1,
+      "status": "ok"
+    },
+    {
+      "name": "catalogs-14.jsonl.gz",
+      "sha256": "e9f569d13da8ac2492f7bbfc7fab411e46dffa8c5747326136a2b41fdc8b4e7c",
+      "records": 1,
+      "status": "ok"
+    },
+    {
+      "name": "catalogs-15-sg1.jsonl.gz",
+      "sha256": "b24c54a784dcd160d7409a5298149a626f54e5790dc987a3a123f13ce9c41ed2",
+      "records": 1,
+      "status": "ok"
+    },
+    {
+      "name": "catalogs-15.jsonl.gz",
+      "sha256": "a4209587fb892633ec9d858f596dd963f2b826197766a5a9e100cca7da5a86b8",
+      "records": 1,
+      "status": "ok"
+    },
+    {
+      "name": "catalogs-16-sg1.jsonl.gz",
+      "sha256": "d4e6a610dc3238ebaf17816a33b53be27015ffd3ec2e847661f2c0bd77b8849e",
+      "records": 1,
+      "status": "ok"
+    },
+    {
+      "name": "catalogs-16.jsonl.gz",
+      "sha256": "c4b8909071a854c7bca54720e62bef8a269beca501fcb4684d7f2824dcafaa4c",
+      "records": 1,
+      "status": "ok"
+    },
+    {
+      "name": "catalogs-17-sg1.jsonl.gz",
+      "sha256": "1f785c55123867a5c813a9f32ab4b43a705b6296adcb7824508ecfa613212a1c",
+      "records": 1,
+      "status": "ok"
+    },
+    {
+      "name": "catalogs-17.jsonl.gz",
+      "sha256": "2536db35585b3ce290691b9a11841bcbf96ec3bd171e7c550552c12ad59a52fc",
+      "records": 1,
+      "status": "ok"
+    },
+    {
+      "name": "catalogs-18-sg1.jsonl.gz",
+      "sha256": "5511216caedcb8c3f8026cf24090650d23c949da0720436a584be251cb904067",
+      "records": 1,
+      "status": "ok"
+    },
+    {
+      "name": "catalogs-18.jsonl.gz",
+      "sha256": "4fc7efa6a2d6761e127b5c72400eb15bab57ea42a62e8036cc118ae15d4b8e06",
+      "records": 1,
+      "status": "ok"
+    },
+    {
+      "name": "catalogs-19-sg1.jsonl.gz",
+      "sha256": "7fb89473d325c938b765a26fbc1267289ce1c161a86103be0187d0698e3a55f1",
+      "records": 1,
+      "status": "ok"
+    },
+    {
+      "name": "catalogs-19.jsonl.gz",
+      "sha256": "7a7d68ae5967aff6227514ecf7b125f438dfafd6589d8c26114dfb3806186181",
+      "records": 1,
+      "status": "ok"
+    },
+    {
+      "name": "catalogs-20-sg1.jsonl.gz",
+      "sha256": "644aa518dadafb613d817c74aac76220ba477c767fc84f4deb84c1c933426db5",
+      "records": 1,
+      "status": "ok"
+    },
+    {
+      "name": "catalogs-20.jsonl.gz",
+      "sha256": "83b409cc0d025a92fbd8058a482c443d04b2c5b2ea6d27054837bcb0ea2bdce7",
+      "records": 1,
+      "status": "ok"
+    },
+    {
+      "name": "catalogs-21-sg1.jsonl.gz",
+      "sha256": "4c788e2727b873fe536b65c1f21d2742d598b7493ccedbe9e38d6e45187dcd27",
+      "records": 1,
+      "status": "ok"
+    },
+    {
+      "name": "catalogs-21.jsonl.gz",
+      "sha256": "34825b84467f03dea435f6f8687f076c52a96ddc87c03c0cd0b172c681588599",
+      "records": 1,
+      "status": "ok"
+    },
+    {
+      "name": "catalogs-22-sg1.jsonl.gz",
+      "sha256": "33b6e766339c220b2e0af31a019830ba9a29bac97df8679f89f06526ecb6bb92",
+      "records": 1,
+      "status": "ok"
+    },
+    {
+      "name": "catalogs-22.jsonl.gz",
+      "sha256": "ed367451e647aeffe416074fdb0e7650c09dec01180dedf52d490818eb1fcba7",
+      "records": 1,
+      "status": "ok"
+    },
+    {
+      "name": "catalogs-23-sg1.jsonl.gz",
+      "sha256": "8234f7d3ae4392440934b1232858569c0c930e1fc4fd5e3e8e2e0dcf27d28e8b",
+      "records": 1,
+      "status": "ok"
+    },
+    {
+      "name": "catalogs-23.jsonl.gz",
+      "sha256": "0b0613a3fe6aca1e63bc87dc01fbf4a9c2aeb5f70675e8bb7d5ab8c3c37a8114",
+      "records": 1,
+      "status": "ok"
+    },
+    {
+      "name": "payai-00-sg1.jsonl.gz",
+      "sha256": "59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2",
+      "records": 0,
+      "status": "ok"
+    },
+    {
+      "name": "payai-00.jsonl.gz",
+      "sha256": "59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2",
+      "records": 0,
+      "status": "ok"
+    },
+    {
+      "name": "payai-01-sg1.jsonl.gz",
+      "sha256": "59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2",
+      "records": 0,
+      "status": "ok"
+    },
+    {
+      "name": "payai-01.jsonl.gz",
+      "sha256": "59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2",
+      "records": 0,
+      "status": "ok"
+    },
+    {
+      "name": "payai-02-sg1.jsonl.gz",
+      "sha256": "59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2",
+      "records": 0,
+      "status": "ok"
+    },
+    {
+      "name": "payai-02.jsonl.gz",
+      "sha256": "59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2",
+      "records": 0,
+      "status": "ok"
+    },
+    {
+      "name": "payai-03-sg1.jsonl.gz",
+      "sha256": "59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2",
+      "records": 0,
+      "status": "ok"
+    },
+    {
+      "name": "payai-03.jsonl.gz",
+      "sha256": "59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2",
+      "records": 0,
+      "status": "ok"
+    },
+    {
+      "name": "payai-04-sg1.jsonl.gz",
+      "sha256": "45b262577982bd390bbe023dd99bd5f6b914cbaa438dd2478e13a2269ca5c08c",
+      "records": 2,
+      "status": "ok"
+    },
+    {
+      "name": "payai-04.jsonl.gz",
+      "sha256": "560366b1292d073149fc9519d9146a7926959719abdff83914b8049b10118728",
+      "records": 1,
+      "status": "ok"
+    },
+    {
+      "name": "payai-05-sg1.jsonl.gz",
+      "sha256": "59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2",
+      "records": 0,
+      "status": "ok"
+    },
+    {
+      "name": "payai-05.jsonl.gz",
+      "sha256": "627fbde36524ec977c68112a748caae3c3b3d4f841dacb11f250310444ed0385",
+      "records": 1,
+      "status": "ok"
+    },
+    {
+      "name": "payai-06-sg1.jsonl.gz",
+      "sha256": "48b7f5df95958099806dfde46575152f7653e9b147b59bb52511ec5235f4a11a",
+      "records": 1,
+      "status": "ok"
+    },
+    {
+      "name": "payai-06.jsonl.gz",
+      "sha256": "e4bdb52198212d211bab998f6fdd72cde818d3de41cea8bd6ce5f1b2ce58b1cd",
+      "records": 1,
+      "status": "ok"
+    },
+    {
+      "name": "payai-07-sg1.jsonl.gz",
+      "sha256": "59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2",
+      "records": 0,
+      "status": "ok"
+    },
+    {
+      "name": "payai-07.jsonl.gz",
+      "sha256": "59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2",
+      "records": 0,
+      "status": "ok"
+    },
+    {
+      "name": "payai-08-sg1.jsonl.gz",
+      "sha256": "7fd38ca217fefddaefd0a2d5eedc15f8b16fcae4d43648b2ce80fe8a80e804d5",
+      "records": 2,
+      "status": "ok"
+    },
+    {
+      "name": "payai-08.jsonl.gz",
+      "sha256": "4118a37beeaeb129791f5a263cf6a11695666d3a3897632c7178374e047bebbb",
+      "records": 2,
+      "status": "ok"
+    },
+    {
+      "name": "payai-09-sg1.jsonl.gz",
+      "sha256": "59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2",
+      "records": 0,
+      "status": "ok"
+    },
+    {
+      "name": "payai-09.jsonl.gz",
+      "sha256": "59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2",
+      "records": 0,
+      "status": "ok"
+    },
+    {
+      "name": "payai-10-sg1.jsonl.gz",
+      "sha256": "59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2",
+      "records": 0,
+      "status": "ok"
+    },
+    {
+      "name": "payai-10.jsonl.gz",
+      "sha256": "59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2",
+      "records": 0,
+      "status": "ok"
+    },
+    {
+      "name": "payai-11-sg1.jsonl.gz",
+      "sha256": "59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2",
+      "records": 0,
+      "status": "ok"
+    },
+    {
+      "name": "payai-11.jsonl.gz",
+      "sha256": "59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2",
+      "records": 0,
+      "status": "ok"
+    },
+    {
+      "name": "payai-12-sg1.jsonl.gz",
+      "sha256": "d5183573d0ac505a4612c83c66714e7e26402c1b5d3de7e7d19f25faea462dcb",
+      "records": 1,
+      "status": "ok"
+    },
+    {
+      "name": "payai-12.jsonl.gz",
+      "sha256": "32195a0d82e1d77bd6d64a963bd8929b30bb2ac6e3beaf880e31d9dfd46fe801",
+      "records": 1,
+      "status": "ok"
+    },
+    {
+      "name": "payai-13-sg1.jsonl.gz",
+      "sha256": "80bf3ab22d083e9b929dd3f86cc11a86338d9838f7b67c0ac66f935a36e38eda",
+      "records": 1,
+      "status": "ok"
+    },
+    {
+      "name": "payai-13.jsonl.gz",
+      "sha256": "571232d4e9e4bb547e648e1f45ba03cbf2e1b8b434b67a796e44be87f2f9d172",
+      "records": 1,
+      "status": "ok"
+    },
+    {
+      "name": "payai-14-sg1.jsonl.gz",
+      "sha256": "59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2",
+      "records": 0,
+      "status": "ok"
+    },
+    {
+      "name": "payai-14.jsonl.gz",
+      "sha256": "59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2",
+      "records": 0,
+      "status": "ok"
+    },
+    {
+      "name": "payai-15-sg1.jsonl.gz",
+      "sha256": "59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2",
+      "records": 0,
+      "status": "ok"
+    },
+    {
+      "name": "payai-15.jsonl.gz",
+      "sha256": "59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2",
+      "records": 0,
+      "status": "ok"
+    },
+    {
+      "name": "payai-16-sg1.jsonl.gz",
+      "sha256": "b42e7afbb45c8add183bd32c1b0b5db93fd343375bac63c0001eb139e6cb46a0",
+      "records": 2,
+      "status": "ok"
+    },
+    {
+      "name": "payai-16.jsonl.gz",
+      "sha256": "d8cd4761e7119a2f74ae54a74d74c930cacff28486a368aa352fb2bb90eb2f9c",
+      "records": 2,
+      "status": "ok"
+    },
+    {
+      "name": "payai-17-sg1.jsonl.gz",
+      "sha256": "59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2",
+      "records": 0,
+      "status": "ok"
+    },
+    {
+      "name": "payai-17.jsonl.gz",
+      "sha256": "59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2",
+      "records": 0,
+      "status": "ok"
+    },
+    {
+      "name": "payai-18-sg1.jsonl.gz",
+      "sha256": "59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2",
+      "records": 0,
+      "status": "ok"
+    },
+    {
+      "name": "payai-18.jsonl.gz",
+      "sha256": "10e74c51eede05c711f35796d37b13e30ebb91996ade9f16cfb8dd9ed506e5ad",
+      "records": 1,
+      "status": "error"
+    },
+    {
+      "name": "payai-19-sg1.jsonl.gz",
+      "sha256": "70beda782d21e8bf62f1ece0c171dedddb0e51e71328600c1267253da990782e",
+      "records": 1,
+      "status": "error"
+    },
+    {
+      "name": "payai-19.jsonl.gz",
+      "sha256": "41bb2e95c0040b6f93724ff4c90538a7a6d8d6437f30e2963e047bcd65b4c23a",
+      "records": 2,
+      "status": "ok"
+    },
+    {
+      "name": "payai-20-sg1.jsonl.gz",
+      "sha256": "bfd8c9322e38bbdc6c9690466535d5feb3bd45234b4623e5688af70f0f5ae4fe",
+      "records": 1,
+      "status": "ok"
+    },
+    {
+      "name": "payai-20.jsonl.gz",
+      "sha256": "a336c2bd28ad42789da1d799cc207e49322b416be22d7698dcb80cb82b956f74",
+      "records": 1,
+      "status": "ok"
+    },
+    {
+      "name": "payai-21-sg1.jsonl.gz",
+      "sha256": "59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2",
+      "records": 0,
+      "status": "ok"
+    },
+    {
+      "name": "payai-21.jsonl.gz",
+      "sha256": "59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2",
+      "records": 0,
+      "status": "ok"
+    },
+    {
+      "name": "payai-22-sg1.jsonl.gz",
+      "sha256": "59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2",
+      "records": 0,
+      "status": "ok"
+    },
+    {
+      "name": "payai-22.jsonl.gz",
+      "sha256": "59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2",
+      "records": 0,
+      "status": "ok"
+    },
+    {
+      "name": "payai-23-sg1.jsonl.gz",
+      "sha256": "24a281b876c3e9117eafaf3fb16424fa197b5bdc95c7e7381f08c3520a4f1a04",
+      "records": 1,
+      "status": "ok"
+    },
+    {
+      "name": "payai-23.jsonl.gz",
+      "sha256": "595857df06c0e0bc5782719c7e4487f8ae45583560f4906a242e256e46a41d04",
+      "records": 1,
+      "status": "ok"
+    },
+    {
+      "name": "payai-baseline-02.jsonl.gz",
+      "sha256": "8b8821b5f4d293cbe268f3ccddd02de5ceb93818653f38f2a8f196776994ed6b",
+      "records": 18715,
+      "status": "ok"
+    },
+    {
+      "name": "xrpl-settlements-02.jsonl.gz",
+      "sha256": "59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2",
+      "records": 0,
+      "status": "disabled"
+    }
+  ],
+  "prev_chain": "7492311b533720584fb5a5b8cf775daae3d30db4f5f561b0828981cdd97f6b36",
+  "chain_sha256": "d7c3f30ec79a5cc4453c2bb168ebea5e7121c3200a4dee8e120a833a88cb7c58"
+}
